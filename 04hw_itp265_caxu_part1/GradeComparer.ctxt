@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=GradeComparer
+comment0.text=\n\ GradeCompare\ class\ (compare\ your\ grades\ with\ friend\ grades)\n\n\ @author\ Connie\ Xu\n\ ITP\ 265,\ Spring\ 2021,\ Coffee\ Section\n\ Assignment\ 04\ Part\ 1\n\ Email\:\ caxu@usc.edu\n
+comment1.params=
+comment1.target=GradeComparer()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ GradeComparer\n
+comment2.params=
+comment2.target=double[]\ pairWiseMax()
+comment2.text=\n\ access\ grades\ and\ hold\ vals\ for\ each\n
+comment3.params=
+comment3.target=void\ showAllStats()
+numComments=4

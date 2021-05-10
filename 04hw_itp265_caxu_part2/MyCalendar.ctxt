@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=MyCalendar
+comment0.text=\n\ Calendar\ class\ (display\ calendar\ months)\n\n\ @author\ Connie\ Xu\n\ ITP\ 265,\ Spring\ 2021,\ Coffee\ Section\n\ Assignment\ 04\ Part\ 2\n\ Email\:\ caxu@usc.edu\n
+comment1.params=
+comment1.target=MyCalendar()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ MyCalendar\n
+comment2.params=
+comment2.target=void\ runCalendar()
+comment2.text=\n\ run\ method\n
+comment3.params=
+comment3.target=void\ printCalendar()
+comment3.text=\n\ print\ calendar\n
+comment4.params=
+comment4.target=void\ checkCalendar()
+comment4.text=\n\ check\ calendar\n
+numComments=5

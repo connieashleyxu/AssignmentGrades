@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=AssignmentGrades
+comment0.text=\n\ AssignmentGrades\ class\ (display\ assignment\ grades)\n\n\ @author\ Connie\ Xu\n\ ITP\ 265,\ Spring\ 2021,\ Coffee\ Section\n\ Assignment\ 04\ Part\ 1\n\ Email\:\ caxu@usc.edu\n
+comment1.params=
+comment1.target=AssignmentGrades()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ AssignmentGrades\n
+comment2.params=
+comment2.target=void\ runAssignmentGrades()
+comment3.params=
+comment3.target=double[]\ getGrades()
+comment4.params=
+comment4.target=void\ inputGrades()
+comment4.text=\n\ method\ to\ let\ user\ put\ in\ their\ grades\n
+comment5.params=arrayOfGrades
+comment5.target=void\ showAssignments(double[])
+comment5.text=\n\ method\ to\ display\ assignments\n
+comment6.params=arrayOfGrades
+comment6.target=void\ showStats(double[])
+comment6.text=\n\ method\ to\ display\ stats\ of\ grades\n
+numComments=7
